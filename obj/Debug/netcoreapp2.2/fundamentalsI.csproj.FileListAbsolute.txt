@@ -1,0 +1,11 @@
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/bin/Debug/netcoreapp2.2/fundamentalsI.deps.json
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/bin/Debug/netcoreapp2.2/fundamentalsI.runtimeconfig.json
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/bin/Debug/netcoreapp2.2/fundamentalsI.runtimeconfig.dev.json
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/bin/Debug/netcoreapp2.2/fundamentalsI.dll
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/bin/Debug/netcoreapp2.2/fundamentalsI.pdb
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/obj/Debug/netcoreapp2.2/fundamentalsI.csprojAssemblyReference.cache
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/obj/Debug/netcoreapp2.2/fundamentalsI.csproj.CoreCompileInputs.cache
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/obj/Debug/netcoreapp2.2/fundamentalsI.AssemblyInfoInputs.cache
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/obj/Debug/netcoreapp2.2/fundamentalsI.AssemblyInfo.cs
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/obj/Debug/netcoreapp2.2/fundamentalsI.dll
+/Users/rtongson/Documents/csharp/fundamentals/fundamentalsI/obj/Debug/netcoreapp2.2/fundamentalsI.pdb
